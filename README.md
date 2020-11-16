@@ -1,4 +1,4 @@
-## Site currently under construction
+## Code for personal website
 
 
 ## Like the template
